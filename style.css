@@ -1,0 +1,222 @@
+#cabezera{
+background-color: rgb(107, 218, 131);
+height: 150px;
+}
+
+#cableft{
+    float: left;
+    height: 150px;
+    width: 16%;
+}
+
+#fotocabezera{
+    background-color: #26ac2d;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    float: left;
+    height: 144px;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+#cabcent{
+    float: left;
+    height: 150px;
+    width: 50%;
+}
+
+#cabtop{
+    float: left;
+    width: 100%;
+    height: 75px;
+}
+
+#cabottom{
+    float: left;
+    width: 100%;
+    height: 75px;
+}
+
+#ins{
+    background-color: #26ac2d;
+    float: right;
+    margin-top: 3px;
+    margin-bottom: 1.5px;
+    margin-left: 0.4%;
+    height: 70.5px;
+    width: 16.15%;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#inss{
+    background-color: #26ac2d;
+    float: right;
+    margin-top: 1.5px;
+    margin-left: 0.4%;
+    height: 70.5px;
+    width: 16.15%;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.buttonn{
+    border: none;
+    background-color: #26ac2d;
+    text-align: center;
+    font-size: 10px;
+    transition-duration: 0.4s;
+    height: 100%;
+    width: 100%;
+}
+
+.buttonn:hover{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 100%;
+    width: 100%;
+}
+
+#cabright{
+    float: left;
+    height: 150px;
+    width: 34%;
+}
+
+#menu{
+    background-color: #26ac2d;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-right: 1%;
+    float: right;
+    height: 144px;
+    width: 48.5%;
+    display: grid;
+    place-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 70%;
+}
+
+#cuerpo{
+    background-color: rgb(43, 197, 164);
+    height: 3000px;
+    width: 80%;
+    margin-top: 1%;
+    padding: 1%;
+    float: left;
+}
+
+#apubliacio{
+    background-color: rgb(255, 255, 255);
+    width: 47%;
+    height: 20%;
+    margin-bottom: 1%;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    padding: 1%;
+}
+
+#bpubliacio{
+    background-color: rgb(255, 255, 255);
+    width: 47%;
+    height: 20%;
+    margin-bottom: 1%;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    padding: 1%;
+}
+
+#fotopub{
+    margin: 3%;
+    width: 94%;
+    height: 77%;
+    background-color: #26ac2d;
+}
+
+#peupag{
+    text-align: left;
+    padding-left: 3%;
+    padding-bottom: 3%;
+}
+
+#barra{
+    background-color: rgba(225, 255, 92, 0.637);
+    height: 3000px;
+    width: 15%;
+    margin-top: 1%;
+    padding: 1%;
+    float: right;
+    text-align: center;
+    font-size: 100%;
+}
+
+#graella{
+    background-color: white;
+    height: 8%;
+}
+
+#graellas{
+    float: left;
+    margin-top: 10px;
+    width: 25%;
+}
+
+#table{
+    background-color: white;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 100%;
+    width: 70%;
+    margin-left: 1%;
+}
+
+#Horari{
+    background-color: rgba(0, 255, 128, 0.637);
+    text-align: center;
+    font-size: 60%;
+    padding: 2%;
+}
+
+#final{
+    background-color: rgba(201, 74, 74, 0.637);
+    height: 200px;
+    width: 98%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+    float: right;
+    text-align: center;
+    font-size: 100%;
+}
+
+
+.button{
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px;
+    transition-duration: 0.4s;
+}
+
+.button:hover{
+    background-color: #ff0000;
+    color: white;
+}
+
+#cos{
+    background-color: #9b9b9b;
+    height: 1000px;
+}
